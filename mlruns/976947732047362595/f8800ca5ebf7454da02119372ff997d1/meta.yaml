@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/athrv/OneDrive/Documents/Projects/YouTube-Sentiment-Insights/mlruns/976947732047362595/f8800ca5ebf7454da02119372ff997d1/artifacts
+end_time: 1764187109080
+entry_point_name: ''
+experiment_id: '976947732047362595'
+lifecycle_stage: active
+run_id: f8800ca5ebf7454da02119372ff997d1
+run_name: adaptable-mink-359
+run_uuid: f8800ca5ebf7454da02119372ff997d1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764187093696
+status: 3
+tags: []
+user_id: athrv
