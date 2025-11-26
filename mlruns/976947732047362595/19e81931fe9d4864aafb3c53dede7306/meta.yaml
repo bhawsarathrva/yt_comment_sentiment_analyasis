@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/athrv/OneDrive/Documents/Projects/YouTube-Sentiment-Insights/mlruns/976947732047362595/19e81931fe9d4864aafb3c53dede7306/artifacts
+end_time: 1764136247372
+entry_point_name: ''
+experiment_id: '976947732047362595'
+lifecycle_stage: active
+run_id: 19e81931fe9d4864aafb3c53dede7306
+run_name: gregarious-squid-269
+run_uuid: 19e81931fe9d4864aafb3c53dede7306
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764136225842
+status: 3
+tags: []
+user_id: athrv

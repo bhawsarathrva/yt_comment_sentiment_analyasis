@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1764134822498
+current_stage: Staging
+description: null
+last_updated_timestamp: 1764134822529
+name: yt_chrome_plugin_model
+run_id: cd9fcfdbe4de41ae87a09b1a1f7dc535
+run_link: null
+source: file:///C:/Users/athrv/OneDrive/Documents/Projects/YouTube-Sentiment-Insights/mlruns/976947732047362595/cd9fcfdbe4de41ae87a09b1a1f7dc535/artifacts/file:///C:/Users/athrv/OneDrive/Documents/Projects/YouTube-Sentiment-Insights/mlruns/976947732047362595/cd9fcfdbe4de41ae87a09b1a1f7dc535/artifacts/lgbm_model
+status: READY
+status_message: null
+storage_location: file:///C:/Users/athrv/OneDrive/Documents/Projects/YouTube-Sentiment-Insights/mlruns/976947732047362595/cd9fcfdbe4de41ae87a09b1a1f7dc535/artifacts/file:///C:/Users/athrv/OneDrive/Documents/Projects/YouTube-Sentiment-Insights/mlruns/976947732047362595/cd9fcfdbe4de41ae87a09b1a1f7dc535/artifacts/lgbm_model
+user_id: null
+version: 1

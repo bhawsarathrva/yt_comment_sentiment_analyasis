@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/athrv/OneDrive/Documents/Projects/YouTube-Sentiment-Insights/mlruns/976947732047362595/cd9fcfdbe4de41ae87a09b1a1f7dc535/artifacts
+end_time: 1764134809205
+entry_point_name: ''
+experiment_id: '976947732047362595'
+lifecycle_stage: active
+run_id: cd9fcfdbe4de41ae87a09b1a1f7dc535
+run_name: selective-shark-247
+run_uuid: cd9fcfdbe4de41ae87a09b1a1f7dc535
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764134783071
+status: 3
+tags: []
+user_id: athrv
